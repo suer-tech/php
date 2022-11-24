@@ -1,4 +1,11 @@
 .game-card {
-    height: 100vh;
-    font-family: 'Open Sans', monospace;
+    margin-top: 10vh;
+    height: auto;
+    width: auto;
+    font-family: 'Arial', monospace;
+    }
+
+.btn-info {
+    background-color:  rgba(120, 182, 102, 0.445);
+    color:blue
 }
