@@ -1,0 +1,14 @@
+.card {
+    margin-top: 10vh;
+    height: auto;
+    width: auto;
+    font-family: 'Arial', monospace;
+    background-color:  rgba(223, 223, 223, 0.445);
+    color:rgb(48, 48, 65)
+    }
+    .card-header {
+        font-family: 'Arial', bold;
+        background-color:  rgba(103, 103, 103, 0.445);
+        
+        }
+
